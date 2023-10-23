@@ -1,0 +1,18 @@
+
+ul{
+    width: 70%;
+    margin-left: 10%;
+    list-style: none;
+    display: flex;
+    gap:10px;
+}
+li{
+    display: block;
+    flex:1;
+}
+li a{
+    text-decoration: none;
+    display: block;
+    padding: 2px;
+    flex: 1;
+}
